@@ -1,6 +1,6 @@
 # 🤖 IA Vision - Robotique avec Huskylens et Arduino Mega
 
-**IA Vision** est un projet de robotique embarquée utilisant un **Arduino Mega** et une **caméra Huskylens** pour la détection et la reconnaissance d’objets. Ce projet fait partie du **TP SYS4041 - Robotique** et vise à doter un robot de capacités autonomes pour suivre des objets et interagir avec son environnement.
+**IA Vision** est un projet de robotique embarquée utilisant un **Arduino Mega** et une **caméra Huskylens** pour la détection et la reconnaissance d’objets. Ce projet vise à doter un robot de capacités autonomes pour suivre des objets et interagir avec son environnement.
 
 ## 🎯 Objectifs du Projet
 - Utiliser la caméra **Huskylens** pour l’apprentissage et la reconnaissance d’objets et de couleurs.
