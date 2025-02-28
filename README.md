@@ -44,6 +44,4 @@ Projet réalisé dans le cadre du **TP SYS4041 - Robotique** à l’ESIEA.
 📧 **Contact** : amazzola@et.esiea.fr  
 👤 **Développé par** : Jérôme EVI
 
----
-🚀 **Expérimentez la robotique avec IA Vision !** 🤖🔥
 
